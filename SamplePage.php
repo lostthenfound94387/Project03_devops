@@ -1,4 +1,4 @@
-<?php include "../inc/dbinfo.inc"; ?>
+<?php include "./inc/dbinfo.inc"; ?>
 <html>
 <body>
 <h1>Sample page</h1>
@@ -57,7 +57,7 @@
       <td>
         <input type="submit" name="add" value="Add Data" />
       </td>
-	  <td>
+<!--	  <td>
 		<input type="submit" name="Query" value="Query" />
 	  </td>
 	  <td>
@@ -65,10 +65,10 @@
       </td>
 	  <td>
         <input type="submit" name="DeleteALL" value="Delete All Data" />
-      </td>
+      </td> 
 	  <td>
 		<input type="submit" name="ReviseData" value="Revise Data" />
-	  </td>
+	  </td> --> 
     </tr>
   </table>
 </form>
