@@ -60,7 +60,7 @@
 	  <td>
 		<input type="submit" name="Query" value="Query" />
 	  </td>
-	  <td>
+<!--	  <td>
         <input type="submit" name="DelData" value="Delete Data" />
       </td>
 	  <td>
@@ -68,7 +68,7 @@
       </td>
 	  <td>
 		<input type="submit" name="ReviseData" value="Revise Data" />
-	  </td>
+	  </td> -->
     </tr>
   </table>
 </form>
