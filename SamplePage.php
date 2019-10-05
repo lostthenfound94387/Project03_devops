@@ -66,9 +66,9 @@
 	  <td>
         <input type="submit" name="DeleteALL" value="Delete All Data" />
       </td>
-	  <td>
+<!--	  <td>
 		<input type="submit" name="ReviseData" value="Revise Data" />
-	  </td>
+	  </td> -->
     </tr>
   </table>
 </form>
